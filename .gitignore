@@ -1,0 +1,14 @@
+# Built application files
+
+# Generated files
+Adobe Premiere Pro Audio Previews/
+Adobe Premiere Pro Video Previews/
+Adobe Premiere Pro Previews/
+Adobe Premiere Pro Auto-Save/
+
+# Source folder
+src/
+
+# Exports
+*.mp4
+*.3gp
